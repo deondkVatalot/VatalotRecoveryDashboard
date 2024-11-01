@@ -1,0 +1,68 @@
+{
+  "common": {
+    "save": "Gcina Utshintsho",
+    "saving": "Iyagcina...",
+    "loading": "Iyalayisha...",
+    "error": "Kubekho impazamo",
+    "success": "Iphumelele"
+  },
+  "auth": {
+    "signIn": "Ngena kwi-akhawunti yakho",
+    "email": "Idilesi ye-imeyile",
+    "password": "Iphasiwedi",
+    "signInButton": "Ngena",
+    "signingIn": "Iyangena...",
+    "demoCredentials": "Iinkcukacha zedemo",
+    "invalidCredentials": "Iinkcukacha ezingasebenziyo"
+  },
+  "settings": {
+    "title": "Iisethingi",
+    "appearance": "Inkangeleko",
+    "theme": "Umxholo",
+    "light": "Ukukhanya",
+    "dark": "Ubumnyama",
+    "fontSize": "Ubungakanani Bokubhala",
+    "small": "Ncinane",
+    "medium": "Phakathi",
+    "large": "Khulu",
+    "layout": "Ubume",
+    "comfortable": "Lula",
+    "compact": "Qoqekile",
+    "default": "Okuqhelekileyo",
+    "language": "Ulwimi",
+    "profile": {
+      "firstName": "Igama",
+      "lastName": "Ifani",
+      "email": "I-imeyile",
+      "company": "Inkampani"
+    }
+  },
+  "dashboard": {
+    "title": "Ideshibhodi",
+    "importTrends": "Itrendi Zokufaka",
+    "userDistribution": "Ukwabiwa Kwabasebenzisi",
+    "userStatus": "Isimo Somsebenzisi",
+    "totalRecords": "Iirekhodi Zizonke",
+    "activeUsers": "Abasebenzisi Abasebenzayo",
+    "recentImports": "Okufakwe Kutsha"
+  },
+  "data": {
+    "management": "Ulawulo Lwedatha",
+    "history": "Imbali Yedatha",
+    "import": "Faka Idatha",
+    "export": "Khupha Idatha",
+    "clear": "Cima Idatha",
+    "edit": "Hlela Idatha",
+    "save": "Gcina Utshintsho"
+  },
+  "users": {
+    "management": "Ulawulo Lwabasebenzisi",
+    "add": "Yongeza Umsebenzisi",
+    "edit": "Hlela Umsebenzisi",
+    "delete": "Cima Umsebenzisi",
+    "role": "Indima",
+    "status": "Isimo",
+    "enabled": "Ivuliwe",
+    "disabled": "Ivalwe"
+  }
+}

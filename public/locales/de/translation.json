@@ -1,0 +1,121 @@
+{
+  "common": {
+    "save": "Änderungen speichern",
+    "saving": "Speichern...",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolgreich",
+    "search": "Suchen...",
+    "perPage": "pro Seite",
+    "showing": "Zeige",
+    "of": "von",
+    "results": "Ergebnissen",
+    "actions": "Aktionen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "back": "Zurück"
+  },
+  "auth": {
+    "signIn": "In Konto einloggen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "signInButton": "Einloggen",
+    "signingIn": "Einloggen...",
+    "demoCredentials": "Demo-Anmeldedaten",
+    "invalidCredentials": "Ungültige Anmeldedaten",
+    "logout": "Ausloggen"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "appearance": "Erscheinungsbild",
+    "theme": "Design",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "fontSize": "Schriftgröße",
+    "small": "Klein",
+    "medium": "Mittel",
+    "large": "Groß",
+    "layout": "Layout-Dichte",
+    "comfortable": "Komfortabel",
+    "compact": "Kompakt",
+    "default": "Standard",
+    "language": "Sprache",
+    "profile": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "company": "Unternehmen"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "importTrends": "Import-Trends",
+    "userDistribution": "Benutzerverteilung",
+    "userStatus": "Benutzerstatus",
+    "totalRecords": "Gesamtdatensätze",
+    "activeUsers": "Aktive Benutzer",
+    "recentImports": "Letzte Importe"
+  },
+  "data": {
+    "management": "Datenverwaltung",
+    "history": "Datenverlauf",
+    "import": "Daten importieren",
+    "export": "Daten exportieren",
+    "clear": "Daten löschen",
+    "edit": "Daten bearbeiten",
+    "save": "Änderungen speichern",
+    "columns": {
+      "date": "Datum",
+      "transid": "Transaktions-ID",
+      "account": "Konto",
+      "aname": "Kontoname",
+      "reference": "Referenz",
+      "description": "Beschreibung",
+      "amount": "Betrag",
+      "vat": "MwSt",
+      "flag": "Markierung",
+      "verified": "Verifiziert",
+      "status": "Status",
+      "notes": "Notizen"
+    }
+  },
+  "users": {
+    "management": "Benutzerverwaltung",
+    "add": "Benutzer hinzufügen",
+    "edit": "Benutzer bearbeiten",
+    "delete": "Benutzer löschen",
+    "role": "Rolle",
+    "status": "Status",
+    "enabled": "Aktiviert",
+    "disabled": "Deaktiviert",
+    "admin": "Administrator",
+    "user": "Benutzer"
+  },
+  "reports": {
+    "title": "Berichte",
+    "generate": "Bericht generieren",
+    "generating": "Generiere...",
+    "generated": "Bericht erfolgreich generiert",
+    "error": "Fehler beim Generieren des Berichts",
+    "download": "Herunterladen",
+    "preview": "Vorschau",
+    "currentData": "Aktuelle Daten",
+    "historicalData": "Historische Daten",
+    "noData": "Keine Daten verfügbar",
+    "noHistoricalData": "Keine historischen Daten verfügbar",
+    "generatedBy": "Generiert von",
+    "date": "Datum",
+    "options": {
+      "full": "Vollständiger Datenbericht",
+      "fullDesc": "Vollständiger Bericht aller Daten in der aktuellen Ansicht",
+      "top100amount": "Top 100 Transaktionen",
+      "top100amountDesc": "Bericht der 100 höchsten Transaktionsbeträge",
+      "top100vat": "Top 100 MwSt",
+      "top100vatDesc": "Bericht der 100 höchsten MwSt-Beträge",
+      "verified": "Verifizierungsstatus",
+      "verifiedDesc": "Bericht aller Transaktionen mit Verifizierungsmarkierungen (0 oder 1)"
+    }
+  }
+}

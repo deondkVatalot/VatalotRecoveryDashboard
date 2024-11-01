@@ -1,0 +1,121 @@
+{
+  "common": {
+    "save": "Guardar cambios",
+    "saving": "Guardando...",
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "success": "Éxito",
+    "search": "Buscar...",
+    "perPage": "por página",
+    "showing": "Mostrando",
+    "of": "de",
+    "results": "resultados",
+    "actions": "Acciones",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "back": "Volver"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión en su cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "signInButton": "Iniciar sesión",
+    "signingIn": "Iniciando sesión...",
+    "demoCredentials": "Credenciales de demostración",
+    "invalidCredentials": "Credenciales inválidas",
+    "logout": "Cerrar sesión"
+  },
+  "settings": {
+    "title": "Configuración",
+    "appearance": "Apariencia",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "fontSize": "Tamaño de fuente",
+    "small": "Pequeño",
+    "medium": "Mediano",
+    "large": "Grande",
+    "layout": "Densidad del diseño",
+    "comfortable": "Cómodo",
+    "compact": "Compacto",
+    "default": "Predeterminado",
+    "language": "Idioma",
+    "profile": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo",
+      "company": "Empresa"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "importTrends": "Tendencias de importación",
+    "userDistribution": "Distribución de usuarios",
+    "userStatus": "Estado de usuarios",
+    "totalRecords": "Registros totales",
+    "activeUsers": "Usuarios activos",
+    "recentImports": "Importaciones recientes"
+  },
+  "data": {
+    "management": "Gestión de datos",
+    "history": "Historial de datos",
+    "import": "Importar datos",
+    "export": "Exportar datos",
+    "clear": "Limpiar datos",
+    "edit": "Editar datos",
+    "save": "Guardar cambios",
+    "columns": {
+      "date": "Fecha",
+      "transid": "ID de transacción",
+      "account": "Cuenta",
+      "aname": "Nombre de cuenta",
+      "reference": "Referencia",
+      "description": "Descripción",
+      "amount": "Monto",
+      "vat": "IVA",
+      "flag": "Bandera",
+      "verified": "Verificado",
+      "status": "Estado",
+      "notes": "Notas"
+    }
+  },
+  "users": {
+    "management": "Gestión de usuarios",
+    "add": "Agregar usuario",
+    "edit": "Editar usuario",
+    "delete": "Eliminar usuario",
+    "role": "Rol",
+    "status": "Estado",
+    "enabled": "Habilitado",
+    "disabled": "Deshabilitado",
+    "admin": "Administrador",
+    "user": "Usuario"
+  },
+  "reports": {
+    "title": "Informes",
+    "generate": "Generar informe",
+    "generating": "Generando...",
+    "generated": "Informe generado con éxito",
+    "error": "Error al generar el informe",
+    "download": "Descargar",
+    "preview": "Vista previa",
+    "currentData": "Datos actuales",
+    "historicalData": "Datos históricos",
+    "noData": "No hay datos disponibles",
+    "noHistoricalData": "No hay datos históricos disponibles",
+    "generatedBy": "Generado por",
+    "date": "Fecha",
+    "options": {
+      "full": "Informe completo de datos",
+      "fullDesc": "Informe completo de todos los datos en la vista actual",
+      "top100amount": "Top 100 transacciones",
+      "top100amountDesc": "Informe de las 100 transacciones de mayor monto",
+      "top100vat": "Top 100 IVA",
+      "top100vatDesc": "Informe de los 100 montos más altos de IVA",
+      "verified": "Estado de verificación",
+      "verifiedDesc": "Informe de todas las transacciones con marcas de verificación (0 o 1)"
+    }
+  }
+}

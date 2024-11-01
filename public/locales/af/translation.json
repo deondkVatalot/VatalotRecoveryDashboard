@@ -1,0 +1,68 @@
+{
+  "common": {
+    "save": "Stoor Veranderinge",
+    "saving": "Stoor tans...",
+    "loading": "Laai tans...",
+    "error": "'n Fout het voorgekom",
+    "success": "Sukses"
+  },
+  "auth": {
+    "signIn": "Teken in op jou rekening",
+    "email": "E-posadres",
+    "password": "Wagwoord",
+    "signInButton": "Teken in",
+    "signingIn": "Teken tans in...",
+    "demoCredentials": "Demo-inligting",
+    "invalidCredentials": "Ongeldige inligting"
+  },
+  "settings": {
+    "title": "Instellings",
+    "appearance": "Voorkoms",
+    "theme": "Tema",
+    "light": "Lig",
+    "dark": "Donker",
+    "fontSize": "Teksgrootte",
+    "small": "Klein",
+    "medium": "Medium",
+    "large": "Groot",
+    "layout": "Uitleg Digtheid",
+    "comfortable": "Gemaklik",
+    "compact": "Kompak",
+    "default": "Verstek",
+    "language": "Taal",
+    "profile": {
+      "firstName": "Voornaam",
+      "lastName": "Van",
+      "email": "E-pos",
+      "company": "Maatskappy"
+    }
+  },
+  "dashboard": {
+    "title": "Paneelbord",
+    "importTrends": "Invoer Tendense",
+    "userDistribution": "Gebruiker Verspreiding",
+    "userStatus": "Gebruiker Status",
+    "totalRecords": "Totale Rekords",
+    "activeUsers": "Aktiewe Gebruikers",
+    "recentImports": "Onlangse Invoere"
+  },
+  "data": {
+    "management": "Data Bestuur",
+    "history": "Data Geskiedenis",
+    "import": "Voer Data In",
+    "export": "Voer Data Uit",
+    "clear": "Vee Data Uit",
+    "edit": "Wysig Data",
+    "save": "Stoor Veranderinge"
+  },
+  "users": {
+    "management": "Gebruiker Bestuur",
+    "add": "Voeg Gebruiker By",
+    "edit": "Wysig Gebruiker",
+    "delete": "Verwyder Gebruiker",
+    "role": "Rol",
+    "status": "Status",
+    "enabled": "Geaktiveer",
+    "disabled": "Gedeaktiveer"
+  }
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: #214866;
+    --primary-hover: #b3dddd;
+  }
+
+  .dark {
+    --primary: #b3dddd;
+    --primary-hover: #214866;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[var(--primary)] text-white hover:bg-[var(--primary-hover)] hover:text-[var(--primary)] transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-600 text-white hover:bg-[var(--primary-hover)] hover:text-[var(--primary)] transition-colors duration-200;
+  }
+}
